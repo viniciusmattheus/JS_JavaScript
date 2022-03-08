@@ -1,1 +1,2 @@
-alert(6 * 8);
+// Script externo
+alert(6 * 8); //Mensagem de alerta
