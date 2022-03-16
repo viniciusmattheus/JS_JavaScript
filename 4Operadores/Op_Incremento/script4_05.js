@@ -1,3 +1,5 @@
+//Operação de Pré Incremento
+
 var a;
 a=prompt("Digite um número");
 a=parseInt(a);

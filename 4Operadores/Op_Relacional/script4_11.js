@@ -1,4 +1,5 @@
-//não igual (Diferente)
+//Operação de Não igual (Diferente)
+
 var a, b, res;
 a=10;
 b="10";

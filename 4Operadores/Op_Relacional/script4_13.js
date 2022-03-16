@@ -1,4 +1,5 @@
-//menor, menor ou igual
+//Operação de Menor, Menor ou Igual.
+
 var a, b, c, d;
 a=10;
 b=10;

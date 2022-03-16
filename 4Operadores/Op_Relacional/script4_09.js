@@ -1,4 +1,5 @@
-//igualdade
+//Operação de Igualdade
+
 var a, b, res;
 a=10;
 b="10";

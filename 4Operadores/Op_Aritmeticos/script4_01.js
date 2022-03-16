@@ -1,7 +1,7 @@
 /* 
 Definição das variáveis.
 Variáveis recebendo os valores.
-Operação Artimética de multiplicação(*) e soma(+) na variável x.
+Operação Artimética de multiplicação(*) e soma(+) das variáveis y e z na variável x.
 Escrevendo no documento o Resultado das operações e concatenação.
 */
 

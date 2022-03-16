@@ -1,4 +1,5 @@
-//não idêntico
+//Operação de Não idêntico (Valor e Tipo)
+
 var a, b, res;
 a=10;
 b="10";

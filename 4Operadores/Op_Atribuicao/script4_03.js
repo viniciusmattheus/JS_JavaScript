@@ -1,3 +1,11 @@
+/*
+Prompt vai capiturar o número que o usuário digitar.
+O número será convertido para Inteiro(int)
+Operação de Atribuição.
+Primeira operação está somando a + b que o usuário digitou.
+Segunda operação está Subtraindo(-5) o segundo número que o usuário digitou.
+*/
+
 var a, b;
 a=prompt("Digite um número");
 a=parseInt(a);

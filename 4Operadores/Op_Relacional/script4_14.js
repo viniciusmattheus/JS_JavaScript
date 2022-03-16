@@ -1,4 +1,5 @@
-//maior, maior ou igual
+//Operação de Maior, Maior ou Igual
+
 var a, b, c, d;
 a=11;
 b=10;

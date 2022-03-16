@@ -1,3 +1,5 @@
+//Operação de Juntar as Strings/Textos
+
 var a, b;
 a=prompt("Digite o nome");
 b=prompt("Digite o sobrenome");
