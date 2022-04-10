@@ -1,4 +1,4 @@
-var nome, ra, num1, num2, res; //Declarei nossas variáveis
+var nome, ra, num1, num2, res; //Declarei as variáveis
 nome="Vinicius Matheus G. De Souza"; //Defini o valor da varíavel nome
 ra="2222100403"; //Defini o valor da variável ra
 num1=prompt("Digite um número"); //Irá mostrar uma caixa de diálogo para capiturar e atribuir o valor na várial num1
