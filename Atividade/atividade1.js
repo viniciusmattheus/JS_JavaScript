@@ -2,9 +2,9 @@ var nome, ra, num1, num2, res; //Declarei as variáveis
 nome="Vinicius Matheus G. De Souza"; //Defini o valor da varíavel nome
 ra="2222100403"; //Defini o valor da variável ra
 num1=prompt("Digite um número"); //Irá mostrar uma caixa de diálogo para capiturar e atribuir o valor na várial num1
-num1=parseInt(num1); //Irá fazer a conversão do valor para número inteiro
-num2=prompt("Digite outro número");
-num2=parseInt(num2);
+num1=parseInt(num1); //Irá fazer a conversão do valor da variável num1 para número inteiro
+num2=prompt("Digite outro número"); //Irá mostrar uma caixa de diálogo para capiturar e atribuir o valor na várial num2
+num2=parseInt(num2); //Irá fazer a conversão do valor da variável num2 para número inteiro
 document.write("Nome do Aluno: ", "<b>" +nome, "</b>", "<br>", " RA: ", "<b>"+ra, "</b>", "<hr>"); //Irá exibir na tela os valores das varáveis nome e ra.
 document.write("Números digitados <br>Primeiro número: ", "<b>" +num1, "</b>", "<br> Segundo número: ", "<b>" +num2, "</b>", "<hr>"); //Irá exibir na tela os valores das varáveis num1 e num2.
 res=(num1>num2); //Irá comparar os valores das variáveis num1 e num2
