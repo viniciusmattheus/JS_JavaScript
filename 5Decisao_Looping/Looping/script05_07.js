@@ -1,6 +1,8 @@
 var i;
-i=0;
-while (i < 10){
+i=4;
+while (i > 0){
     document.write(i + "<br>");
-    i++;
+    i--;
 }
+
+//Enquanto a condição for true
